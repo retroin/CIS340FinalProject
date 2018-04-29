@@ -2,6 +2,8 @@
 Two mini Projects
 
 Problem 1 CPU Scheduler
+
+
 In modern computer systems, it is common for users to have many programs running at one time.
 One of the most basic functions of an operating system is to schedule these processes. For this
 project, we will assume a very simple round-robin scheduler. This simply means that each process
@@ -63,6 +65,8 @@ should refer to null.
 and print the contents. If the list is empty, nothing should get printed.
 
 Problem 2 File Management System
+
+
 Write a basic file managment system with following capabilities. Suppose the name of the program
 is myFS. When it executes as below:
 
